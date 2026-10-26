@@ -76,3 +76,7 @@ Hela projektet använder stilen från Enkelt sagt: varm ljus bakgrund, mörk gr�
 ## GitHub och Codex Cloud
 
 Utvecklingsrepo: https://github.com/einand/statistik-.git. Repot är redan kopplat till Codex Cloud. Spara framtida kod, regler och idéer där. Läs och synkronisera aktuellt GitHub-läge innan ändringar, bevara andra ändringar och använd arbetsgren/PR när lämpligt. Sites-repot används fortsatt för publicering på samma adress; en GitHub-commit publicerar inte automatiskt webbplatsen. Kontrollera att GitHub och Sites använder samma källäge inför publicering. Ändra inte .openai/hosting.json till ett nytt projekt. Skriv aldrig GitHub- eller Sites-credentials i filer.
+
+## Aktiv hosting: GitHub Pages
+
+Från 26 oktober 2026 är https://einand.github.io/statistik-/ den aktiva adressen. Den tidigare Sites-adressen ska endast omdirigera dit. Fortsatt utveckling och publicering av själva appen sker för GitHub Pages. Återpublicera inte appen på Sites; där finns ett separat litet omdirigeringspaket. Beakta /statistik-/ som basväg för resurser, länkar och dataanrop. Tidigare instruktioner om att publicera den aktiva statistikappen via Sites är ersatta av detta beslut.
