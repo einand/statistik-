@@ -4,6 +4,7 @@ Källkod och självhostad visningsdata för Sveriges statistikwebbplats.
 
 - Webbplats: https://sveriges-lansbefolkning-1749-2025.einand.chatgpt.site/
 - Utvecklingsrepo: https://github.com/einand/statistik-
+- GitHub Pages: https://einand.github.io/statistik-/
 - Läs **AGENTS.md**, **BESLUT.md** och **IDEBANK.md** innan du ändrar projektet.
 
 ## Codex Cloud
@@ -22,6 +23,22 @@ python -m http.server 8000 --directory build
 ```
 
 `dist/` innehåller sidornas källfiler och visningsdata. `build/` är genererat och ska inte committas. `data/` innehåller hämtnings- och byggskript. Stora datafiler laddas vid behov av webbplatsen.
+
+## GitHub Pages
+
+Arbetsflödet `.github/workflows/github-pages.yml` testar, bygger och publicerar
+automatiskt vid push till `main`. Välj **Settings → Pages → Source → GitHub
+Actions** i GitHub-repot vid första aktiveringen.
+
+```bash
+python data/prepare-github-pages.py --base-path /statistik-/
+```
+
+Resultatet ligger i `public-build/github-pages/`. Bygget anpassar lokala länkar,
+skript och dataadresser till `/statistik-/` i en separat arbetskopia. Det ändrar
+inte `dist/`, sparad poänghistorik eller det befintliga Sites-projektet.
+För lokal kontroll ska paketet serveras under samma `/statistik-/`-sökväg.
+GitHub Pages-publicering och Sites-publicering är separata arbetsflöden.
 
 ## Första överföringen
 
