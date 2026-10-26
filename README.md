@@ -27,7 +27,7 @@ python -m http.server 8000 --directory build
 
 Engångsimporten återställer källkod samt en kontrollerad kopia av den publicerade webbplatsens visningsdata. Nedladdningar verifieras mot sparade SHA-256-kontrollsummor. Äldre arbetsfiler och historiken från Sites-repot finns kvar där; detta GitHub-repo börjar med en ny snapshot.
 
-Efter lyckad import ligger kod och visningsdata direkt i repot och behöver inte hämtas från den publicerade webbplatsen igen. Engångsfilerna i `bootstrap/` tas då bort. Det ursprungliga Sites-repot och den publicerade adressen behålls.
+Efter lyckad import ligger kod och visningsdata direkt i repot och behöver inte hämtas från den publicerade webbplatsen igen. Engångsmanifestet ligger kvar för spårbarhet. Arbetsflödet körs endast vid ändring av importfilerna eller på uttrycklig begäran. Det ursprungliga Sites-repot och den publicerade adressen behålls.
 
 ## Arbetsflöde framöver
 

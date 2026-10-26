@@ -1,0 +1,9 @@
+
+# Intermediate tourism discovery caches; final official collection is tracked.
+data/additions-mixed-2026-10-25/tourism-list-*
+data/additions-mixed-2026-10-25/tourism-config-*.json
+data/additions-mixed-2026-10-25/STOP-TOURISM
+
+/build/
+
+/public-build/

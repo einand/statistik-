@@ -1,0 +1,50 @@
+CHARSET="ANSI";
+AXIS-VERSION="2010";
+CODEPAGE="Windows-1252";
+LANGUAGE="sv";
+CREATION-DATE="20240216 08:00";
+DECIMALS=2;
+SHOWDECIMALS=0;
+MATRIX="MHEv3TobXReg";
+COPYRIGHT=NO;
+SUBJECT-CODE="MHEv";
+SUBJECT-AREA="Miljöhälsoenkäten vuxen";
+DESCRIPTION="Utsätts för andras tobaksrök på olika platser, vuxna efter region, kön och år. Andel (procent).";
+TITLE="Miljöhälsa efter Region, Exponeringsplatser, Frekvens, Mått, Kön och År";
+CONTENTS="Miljöhälsa";
+STUB="Region";
+HEADING="Exponeringsplatser","Frekvens","Mått","Kön","År";
+VARIABLECODE("Region")="Region";
+VALUES("Region")="Riket";
+VARIABLECODE("Exponeringsplatser")="Exponeringsplatser";
+VALUES("Exponeringsplatser")="Utomhus (t ex. på badstranden eller i parken)";
+VARIABLECODE("Frekvens")="Frekvens";
+VALUES("Frekvens")="Dagligen (kombinerad)";
+VARIABLECODE("Mått")="Mått";
+VALUES("Mått")="Andel";
+VARIABLECODE("Kön")="Kön";
+VALUES("Kön")="Totalt";
+VARIABLECODE("År")="År";
+VALUES("År")="2015","2023";
+TIMEVAL("År")=TLIST(A1),"2001","2002";
+CODES("Region")="00";
+CODES("Exponeringsplatser")="5";
+CODES("Frekvens")="6";
+CODES("Mått")="1";
+CODES("Kön")="0";
+CODES("År")="2015","2023";
+PRECISION("Mått","Andel")=1;
+LAST-UPDATED="20240331 08:00";
+UNITS="Andel";
+REFPERIOD="1999-2023";
+CONTACT="folkhalsodata@folkhalsomyndigheten.se";
+DATABASE="I_miljohalsa";
+SOURCE="Folkhälsomyndigheten";
+NOTE="Redovisningen bygger på frågor i Miljöhälsoenkäten:  Hur ofta utsätts du för andras tobaksrök på följande platser? Dagligen i genomsnitt mer än 1 tim per dag/Dagligen, i genomsnitt mindre än en tim per dag/Någon eller några gånger per vecka/Någon eller n"
+"ågra gånger per månad/Nästan aldrig eller aldrig.  Kommungrupp baseras på SKR:s kommungruppsindelning 2023. Miljöhälsoenkäten är en urvalsundersökning bland befolkningen 18-84 år.#";
+LINK="<a HREF= https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/om-var-data/om-vara-datainsamlingar/miljohalsoenkaten/>För mer information, se 'Miljöhälsoenkäten'</a>##<a HREF=https://www.folkhalsomyndigheten.se/globalassets/statistik-uppfol"
+"jning/folkhalsans-utveckling/definitioner-kommentarer-kallor.pdf>För mer information, se 'Definitioner, kommentarer och källor'</a>";
+DESCRIPTIONDEFAULT=YES;
+DATA=
+5.04 2.64 
+;

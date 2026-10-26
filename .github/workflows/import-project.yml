@@ -1,0 +1,37 @@
+name: Import existing statistics project
+on:
+  push:
+    paths:
+      - bootstrap/manifest.json
+      - bootstrap/restore.py
+      - .github/workflows/import-project.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: initial-project-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Restore and verify existing website files
+        run: python bootstrap/restore.py
+      - name: Verify score engine and public build
+        run: |
+          node tests/score-engine.cjs
+          python data/prepare-public.py
+      - name: Commit imported website and display data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import existing website and self-hosted data [bootstrap-complete]'
+            git push origin HEAD:main
+          fi

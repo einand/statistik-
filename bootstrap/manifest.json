@@ -1,0 +1,1185 @@
+{
+  "base_url": "https://sveriges-lansbefolkning-1749-2025.einand.chatgpt.site/",
+  "files": [
+    {
+      "path": "dist/baninfo-jarnvagsnat.png",
+      "size": 58456,
+      "sha256": "dd1a17f57cb63f22d1d20efb7bb92f14202ee4d4ef25a1ae4a714dc8ea860c55"
+    },
+    {
+      "path": "dist/index.html",
+      "size": 17219684,
+      "sha256": "94307d70e618498604323a10674b6f2b8e13ce3c994a3d4bc325b87bde025a40"
+    },
+    {
+      "path": "dist/focus/index.html",
+      "size": 17293859,
+      "sha256": "ba706eb293c5c2acc1bc48e534f18827f2e743f601f9d1148d51dc7f7419227c"
+    },
+    {
+      "path": "dist/lan/index.html",
+      "size": 17220935,
+      "sha256": "588aee2e4eca8dea99bb27a2c0d48d14c50291da4d18efe2e8123e0cc15f5882"
+    },
+    {
+      "path": "dist/geodata/index.html",
+      "size": 210,
+      "sha256": "4eba9ec6e50be6190a9e5f02c151028206031be88489a15f63700d2732c9e4f2"
+    },
+    {
+      "path": "dist/boring/index.html",
+      "size": 5470,
+      "sha256": "19327d9b35494e37a7b9eeae4f21a51e14b6ca116f037f66a996fcf0473a7eab"
+    },
+    {
+      "path": "dist/score/index.html",
+      "size": 12945,
+      "sha256": "c160f578e894c46d16a2fbf2bcc6f38ca1c08d1847d54b9fc220e1c2b5cb2666"
+    },
+    {
+      "path": "dist/data/fritidshusomraden-2000.geojson.gz",
+      "size": 4070654,
+      "sha256": "03f35c9f5a600ff47845cf61c30d2a4134e70e89954e18dc51d3dcbae7199d0a"
+    },
+    {
+      "path": "dist/data/handelsomraden-2020.geojson.gz",
+      "size": 2148449,
+      "sha256": "e471744836ca27730aead4933a0af9784b5f1efb3a4a73b45de399595181b25a"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-9000.json.gz",
+      "size": 2873768,
+      "sha256": "52669518c70d60e7ef96194f8b789448f6f3e3ebf7371b6e4c46c29e2d2c7690"
+    },
+    {
+      "path": "dist/data/dataportal-additions.json",
+      "size": 181624,
+      "sha256": "56c0db86880e7f08c10017572e4d5827f523c0880e7d03309a2a48c1cce13f23"
+    },
+    {
+      "path": "dist/data/fohm-tobacco-outdoor.json",
+      "size": 2786,
+      "sha256": "1c8650727c0aeac062ff37d44d780e32824a3bd73f52496e843efb0749a0176b"
+    },
+    {
+      "path": "dist/data/fritidshusomraden-2010.geojson.gz",
+      "size": 3422942,
+      "sha256": "f0eb0575d7c711fac0b1cf28026849b688097600e038b4721a655dda7beb2c07"
+    },
+    {
+      "path": "dist/data/electricity-flows-2025.json.gz",
+      "size": 2729967,
+      "sha256": "f28b7c03aa3d8b00f062e012c632fba12b0f6b886e66cb22e231c7ddbae731f3"
+    },
+    {
+      "path": "dist/data/fritidshusomraden-2005.geojson.gz",
+      "size": 5126050,
+      "sha256": "bb2fedddfeec535224f8414df451dd71ce939981ae188a90b2ed4f5595baa20a"
+    },
+    {
+      "path": "dist/data/income-defense.json",
+      "size": 185077,
+      "sha256": "805c66ae640fbc909ddcfacdcc9a00e2708e32170c65b7d2fe9213033411c093"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-2000.json.gz",
+      "size": 2231674,
+      "sha256": "deaeed3e61e49ddf191882fb715474285ff24e85e67e65743f0913e3b8180883"
+    },
+    {
+      "path": "dist/data/tatorter-1990.json",
+      "size": 1667253,
+      "sha256": "615ff2d4cdbb50c8bc5d7c4b09d17bf1c6e85a6d2d93acc742600c7eef99dca8"
+    },
+    {
+      "path": "dist/data/score-default.json",
+      "size": 962647,
+      "sha256": "9515b9942a86462eafc393d03bbb664148925c70277e0977366a10416e51a2ce"
+    },
+    {
+      "path": "dist/data/electricity-summary.json",
+      "size": 20570,
+      "sha256": "06820d89c1158843537048f55490dbcdac5de8946e34498761d567523e6115f8"
+    },
+    {
+      "path": "dist/data/score-input.json",
+      "size": 709457,
+      "sha256": "99930fca11ece2d969c00d78abdbe5133a03bf55722b5cb43f041ec5fa669860"
+    },
+    {
+      "path": "dist/data/polisens-utsatta-omraden-2025.zip",
+      "size": 45422,
+      "sha256": "3f386d61db2794f611ff0acb8d2489f12ebd90926ea8690d8b867046db5c7d75"
+    },
+    {
+      "path": "dist/data/school-expansion.json",
+      "size": 1438564,
+      "sha256": "6a80c4e46ae81e516181268710517554482cbf74ea86858e7840b5b3b5edf179"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-4000.json.gz",
+      "size": 2834032,
+      "sha256": "578d6d93262d2b73130608052797a23f1c43fddfa9969a83e9d8bc9a5c84284f"
+    },
+    {
+      "path": "dist/data/electricity-flows-2023.json.gz",
+      "size": 2636018,
+      "sha256": "7283b7b8625c255bdf3b30e0011971badd4de8aa50c4c44db2cf3bf8b13999bd"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-10000.json.gz",
+      "size": 3380655,
+      "sha256": "565734c881be3f8db50618612eb1373c83c9c6c0be57bf9b27b4e00b2ea4964d"
+    },
+    {
+      "path": "dist/data/fritidshusomraden-2015.geojson",
+      "size": 11833230,
+      "sha256": "b6a8e24cfd278a76dad2e69caa5c5b1469bfd266ba5207011c0f62ef21022215"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-0.json.gz",
+      "size": 2938609,
+      "sha256": "dbe19f3a3b490316cf99d0b80c3c0eae0f50ccf31be2a445783e113076669462"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-8000.json.gz",
+      "size": 2576591,
+      "sha256": "f0cf3e1aa53c9762e42f188c6f4f463ba2d51173ef138f85f0c75f290676fa00"
+    },
+    {
+      "path": "dist/data/school-regional.json",
+      "size": 111334,
+      "sha256": "0ee01862d7e551fb6e56f7e1f028ce6f95ed14e3539efdf8c419e46e198073c5"
+    },
+    {
+      "path": "dist/data/tatorter-2018.json",
+      "size": 3037153,
+      "sha256": "1fb9271b27a6f9375e125b28464b076b4a0895a2596ca9826593f7b3dfeb5406"
+    },
+    {
+      "path": "dist/data/tatorter-2010.json",
+      "size": 1877464,
+      "sha256": "2993d585b5aee02f5bc2ac6d2ca2b96899feb1edf6276c3601f24b3665105aed"
+    },
+    {
+      "path": "dist/data/electricity-flows-2026.json.gz",
+      "size": 2194934,
+      "sha256": "f06b43024aeb7953fffd12ef53e165a2bfcb66080422168a1714c94d11d88a09"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-1000.json.gz",
+      "size": 2549417,
+      "sha256": "4e2bbcc13769e4eb7c2afac789cb29df22987e0155c14f7bdf48625e67b2152e"
+    },
+    {
+      "path": "dist/data/tatorter-1980.json",
+      "size": 1556931,
+      "sha256": "68a6390e87d2fd102787635124e4e7a8d69bfa6c09a5615ba30302ae74b71077"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-13000.json.gz",
+      "size": 1648994,
+      "sha256": "8cd55d914b823fa25ab9e6449eb86d09c62b515e169f39da650938a7391e7200"
+    },
+    {
+      "path": "dist/data/tatorter-2000.json",
+      "size": 1794146,
+      "sha256": "c08a75cc5a815974726778ddd32d8b197a3c00cb0490274608cab3826405a933"
+    },
+    {
+      "path": "dist/data/fritidshusomraden-2020.geojson.gz",
+      "size": 2724223,
+      "sha256": "dc2f529680b5e0cd59989835abc770391f4762a354111b2f26cdc2e52e8b0be6"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-inspire.zip",
+      "size": 15398225,
+      "sha256": "c9d4d506461c454c921ef4cb8410ef0f06872dabc355587b0320f37be9aff15f"
+    },
+    {
+      "path": "dist/data/boring.json.gz",
+      "size": 276531,
+      "sha256": "868a61be7ec0b850ba1c74585a55e8a1452ea2a794b7d6fd4c060b02a211eae8"
+    },
+    {
+      "path": "dist/data/handelsomraden-2015.geojson.gz",
+      "size": 1733371,
+      "sha256": "24924400388cd7082f81b003a9704f0f8200d12aed1576311fb59a06a8d56bd7"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-7000.json.gz",
+      "size": 2617288,
+      "sha256": "43eb05404dc74c2c7727f4ade51b38f49f3a46ac26a503b636cd7297795a23e0"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-11000.json.gz",
+      "size": 2385236,
+      "sha256": "0a05921959e6a4722b73125e6bd332eb50b917917763e22a0c800c71a3c5f8e5"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-6000.json.gz",
+      "size": 2446656,
+      "sha256": "ab5804ac8d27ccc565cab01ad8c2f366af2f568128591a6d2e83288d62816cc7"
+    },
+    {
+      "path": "dist/data/tatorter-1995.json",
+      "size": 1782235,
+      "sha256": "e1246b04eab6fab8032c9fa3e663992d3a128886f122df38cc628343570e6926"
+    },
+    {
+      "path": "dist/data/tatorter-2020.json",
+      "size": 3079883,
+      "sha256": "580a060681375fcecefdcd150d9c97a6010df417981e60a0bc4a7ebae4aa909b"
+    },
+    {
+      "path": "dist/data/electricity-flows-2022.json.gz",
+      "size": 2604024,
+      "sha256": "023029b9ae5735c6d95dcddcc2c4ea6f7aea58ef937b856a7e0c61eb102c0b2b"
+    },
+    {
+      "path": "dist/data/fk-additions.json",
+      "size": 1001335,
+      "sha256": "5ce12435fccb37af870a37a2906d91f7955dccec94f0df91a3fb8ec88421c083"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-12000.json.gz",
+      "size": 3225040,
+      "sha256": "1fbe7ad839af77d22379b1099d79bb6f5833dd1681b94429ac8f5422e0453914"
+    },
+    {
+      "path": "dist/data/electricity-flows-2024.json.gz",
+      "size": 2633992,
+      "sha256": "b9ac1b56da7d90d23dc90c9b0672e8dea0fe21efbc8e9b982a062d4da815af8c"
+    },
+    {
+      "path": "dist/data/mixed-additions.json",
+      "size": 649331,
+      "sha256": "cd421b5478bec85cd2a5edb8bdced9f74ba981685fdd96822bbaf06b1aa6284b"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-5000.json.gz",
+      "size": 2762493,
+      "sha256": "d9884e37773c2ac6b0a2537c85c33e497e5569cff6bc801026669379efba95be"
+    },
+    {
+      "path": "dist/data/tourism-source.json.gz",
+      "size": 2181365,
+      "sha256": "50d3e6a37ce4d46308377f7b3bd8cf1341670e3acfbfa1eb767302d59080932b"
+    },
+    {
+      "path": "dist/data/tatorter-2005.json",
+      "size": 1830729,
+      "sha256": "d62aff272d8efaad4aa154a17e490bc7dc053b8ae78a9241e416b6b455f79824"
+    },
+    {
+      "path": "dist/data/gymnasium-quality.json",
+      "size": 4834,
+      "sha256": "291219923e80c140992d9a4d9fa0856fc4dfa2513a42656d234a1943e80140db"
+    },
+    {
+      "path": "dist/data/fritidshusomraden-2015.geojson.gz",
+      "size": 2671327,
+      "sha256": "2a23d6a63dabbd2f690879b74615d85cbbc2852aab3b082fe24707d53147aebb"
+    },
+    {
+      "path": "dist/data/tatorter-2015.json",
+      "size": 3024307,
+      "sha256": "b2045adfaff52ee4bb55df28a18a4c46aa67b2b3d57d69c6770b24bdd9a7eb80"
+    },
+    {
+      "path": "dist/data/sgu-groundwater-source-3000.json.gz",
+      "size": 2393329,
+      "sha256": "a6d30e47c461c56fea8b9fd1f49e9f75619b4a9bfd8ccb35828d513963f9ac5e"
+    },
+    {
+      "path": "dist/data/score-revisions.json",
+      "size": 140,
+      "sha256": "330311203571ee38e66026ce8520f3536658152f64d31fefdcfd7138bf6ed0c5"
+    },
+    {
+      "path": "dist/assets/score-engine.js",
+      "size": 6896,
+      "sha256": "7d286ccac420b20b43b3d9935fa95d718ba831a7fb37d18f1d1e30aec8adb830"
+    },
+    {
+      "path": "dist/assets/geodata-map.html",
+      "size": 16648,
+      "sha256": "06073de077a8d34ba95be264f60612fbe2c351ab01bb1387946fce7bf69f5cb2"
+    },
+    {
+      "path": "dist/assets/score-chart.js",
+      "size": 1992,
+      "sha256": "6f6ed94392aad66cbe046865b9f59b686d5c996f000ed8e7803b1ef3d0a87bba"
+    },
+    {
+      "path": "dist/assets/boring.js",
+      "size": 35512,
+      "sha256": "364ed12e8ba0550af05f26ac11f5cf3edb73b931596ac85f156c2364f923fdda"
+    },
+    {
+      "path": "dist/assets/boring.css",
+      "size": 10282,
+      "sha256": "f87552ed200b7ed61f04535b197307dd2e4ab51184bce40dd001a4c3f8056ba4"
+    },
+    {
+      "path": "dist/assets/electricity-map.html",
+      "size": 7845,
+      "sha256": "556f9e7cdf19da625f9281bac5942b258bfcb675fdda9d5772079a88dab423a0"
+    },
+    {
+      "path": "dist/assets/score-page.js",
+      "size": 9179,
+      "sha256": "1040c0eca775eefa1a2d054cff05c4f01635adf3b20bb2a3fb39f0c8029570bf"
+    },
+    {
+      "path": "dist/assets/statistics-explorer.html",
+      "size": 10483,
+      "sha256": "d46c2dc1df023d95d256c2efba946975346776f6bf2fda34674cde8753c7a372"
+    },
+    {
+      "path": "dist/assets/site-theme.css",
+      "size": 13708,
+      "sha256": "c7c0b5235fb2941754d56dd80b773b2cda274c03ba16f30011528841d860e13a"
+    },
+    {
+      "path": "dist/data/score-history/d1c7a8367d2a.json.gz",
+      "size": 68477,
+      "sha256": "a7bf00754f629f750abfcaef4333e2b9404775115495b8be8090e2be410c2aef"
+    },
+    {
+      "path": "dist/data/geodata/RegSO_2020.json.gz",
+      "size": 1666710,
+      "sha256": "92be3f59aebecb43212c2bc93f18524516f0498e438998c4dee98b1eed719ac5"
+    },
+    {
+      "path": "dist/data/geodata/catalog.json",
+      "size": 1942,
+      "sha256": "39e6ae17d51963ad33cc6c4112a4b2d12f584242e10b163ab3ba4d22cea3657d"
+    },
+    {
+      "path": "dist/data/geodata/DeSO_2018.json.gz",
+      "size": 2090837,
+      "sha256": "320a3e9baa0aedb5df187dca8828018be79ef9e538a7d6cbaaf643f4de6d7932"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part7.json.gz",
+      "size": 100233,
+      "sha256": "6bbe70c27a4b0be95e58ee5743d325158db5803cc3c6a6abe69b7f686992bb01"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2018.json.gz",
+      "size": 625397,
+      "sha256": "c117f026b32386e1764f832e4f9910f5834c623f30b2e891890bcd09dfcad2a1"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_2020.json.gz",
+      "size": 670522,
+      "sha256": "94a967556768a0dc4bcfcd3d7ff08a22957f9db0d634cf99bafacb4c21997e8a"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part10.json.gz",
+      "size": 265690,
+      "sha256": "48224ae5f2c1627ed950e8a666bd15c890ab159368ddb41ab9bb07b5d6038457"
+    },
+    {
+      "path": "dist/data/geodata/RegSO_2025.json.gz",
+      "size": 1558532,
+      "sha256": "eeaaf4e813fc45a3d94bca6c19bb90ed1d7cb270892395ae7f51225817f184c2"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part4.json.gz",
+      "size": 821524,
+      "sha256": "578e07fb2202946beeec952ac819b03e0dddfd4b5ee3ef49fd4aeed6b614a5bb"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part5.json.gz",
+      "size": 859769,
+      "sha256": "be29bda324f70139d393a7c99ff8db11d374775804922874c11b5d80062142b7"
+    },
+    {
+      "path": "dist/data/geodata/Arbetsplatsomraden_2005.json.gz",
+      "size": 81625,
+      "sha256": "325b42c4f298725fe3114d11504d89856631d06ef22dd9ccc69311402ebee01b"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2019.json.gz",
+      "size": 625806,
+      "sha256": "3dd64f83843f016cf45db4429dec5f3fcd43785bbba6980052dd759c00a64672"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part9.json.gz",
+      "size": 767324,
+      "sha256": "00b7faf1c83adde8fe6aa49656dc8c0533055037af6280a002ee774274501903"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2016.json.gz",
+      "size": 621127,
+      "sha256": "d367cfb412dc37f550d975a6c21311aa6c0265235fb93182b6bde704ae8c1a11"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part7.json.gz",
+      "size": 784895,
+      "sha256": "83150eb8b586ef7dc7545f409f966e588830bb7363a24ec88dcf37f3dd439b6a"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part8.json.gz",
+      "size": 754715,
+      "sha256": "d897348c16958de5015b59ad4a3f9054cc0085dd90209786b009b7d409a9167c"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part4.json.gz",
+      "size": 1020830,
+      "sha256": "dcad4685d2ecbcf238a772cff79041f0d0ca08428d77c1581069c28166aea4af"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2015.json.gz",
+      "size": 619782,
+      "sha256": "a4e036c08e6143b8d674c80fb42131a407128de48eb24a54fb5ec9de92946770"
+    },
+    {
+      "path": "dist/data/geodata/Grundvatten_2004.json.gz",
+      "size": 4408017,
+      "sha256": "23c09e54daac31bb1f3d0ae9c2323aa9c062a3a44630280441e43a84ee38f10b"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2022.json.gz",
+      "size": 630580,
+      "sha256": "8234b8043c8cb4987716c3ddb294e8f4a716f7a0bc7ee69850e5f642c6b08d66"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_2010.json.gz",
+      "size": 541224,
+      "sha256": "14f23ee6f08420cfce14fb8e4ffa9a41ef23ea8f2cbfb407c6cddae71111da2d"
+    },
+    {
+      "path": "dist/data/geodata/DeSO_2025.json.gz",
+      "size": 2084764,
+      "sha256": "25e668cbbacab1430b0f7b6ed2ae4fafdd52364672ce44e79269f92ec2746671"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_1990.json.gz",
+      "size": 402906,
+      "sha256": "21c8694b9c28277c4ef4bc00caba1b4a1d9c9c70c656b30c274b6e343c4451d9"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part1.json.gz",
+      "size": 749726,
+      "sha256": "6c438a79fe1d2cbb2ec5fe70eaad22c2a892a24d99b548348d16baedc149725c"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2025.json.gz",
+      "size": 630319,
+      "sha256": "815522b64a57e5a2740279720401119eb02a61d3e249f7178f1f1e326ae9d70d"
+    },
+    {
+      "path": "dist/data/geodata/Polisens_utsatta_omraden_2025.json.gz",
+      "size": 21287,
+      "sha256": "cf252276d36483f91c99932ea2ce8f805150671fff53b91db143beae1d22f022"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_2023.json.gz",
+      "size": 669936,
+      "sha256": "426beee6e02f817eaf5fdb8a2e7bfeabd21416c5c33b9790cde9ad6d5de6934d"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part2.json.gz",
+      "size": 820558,
+      "sha256": "39bee8b80df1990444ae4641269f6a78732c0bd803752d30505503a8ac3b82b8"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2020.json.gz",
+      "size": 627344,
+      "sha256": "e21c8b47b4ba5bce54af67edbac3d41096eed24d02ce3687c4f911fbe2f8a935"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part3.json.gz",
+      "size": 791623,
+      "sha256": "a7a39b8c07a62b94b89a9363b55075575dc9a26d6106e0fa87f28085e90bffd7"
+    },
+    {
+      "path": "dist/data/geodata/Arbetsplatsomraden_2000.json.gz",
+      "size": 56787,
+      "sha256": "816441435388d4e003e0a2a548fbc3330ebbd74ebe9a128d3faf38add5b8ce51"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_2015.json.gz",
+      "size": 699173,
+      "sha256": "d14a38049fdfd00710c6636333846aff5a95c4843433ebd35d933431b045c1c9"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2010_tatort.json.gz",
+      "size": 1389506,
+      "sha256": "b02b5d04eb37bddedd63adf721b976288e9756a7c75673e5e78c19a02017966d"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part0.json.gz",
+      "size": 780579,
+      "sha256": "3f86061b07342f6240f82e9de846e64049393c339b78d6686b3966abfadcf7af"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part3.json.gz",
+      "size": 958679,
+      "sha256": "3bb3eefde1f8ac05fd3ef1ec4f492e8edab4f14d57c0dc1ab2963f0fe758df54"
+    },
+    {
+      "path": "dist/data/geodata/Verksamhetsomraden_2020.json.gz",
+      "size": 522445,
+      "sha256": "dcb4180808808fdd8764e8a7cb9b6ae7585557ed6cba7c99e952c5f4f55f1836"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_2005.json.gz",
+      "size": 535068,
+      "sha256": "05de9ca227d5a0d08e0e826aa0301018a3ea06b65cb9a907c7f56c2f7c157233"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort.json",
+      "size": 353,
+      "sha256": "b42fa26f59a2a8b2d8915bc1b8f9998e95ab3132afc60dee58a35650b270104c"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2024.json.gz",
+      "size": 629973,
+      "sha256": "83f9ba34b6bcdd8231e8d2905aa1a89692f29d032d31173e14dfba2c66193843"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part1.json.gz",
+      "size": 762784,
+      "sha256": "0d55c08e85a91ced161ff16992fffd84aa166577bc52e40fdb89c67ff037251d"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2017.json.gz",
+      "size": 624164,
+      "sha256": "8f2876789b888ec43d40c90032748c000c771a39242cf2a9603f37f037bb6e24"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2021.json.gz",
+      "size": 629521,
+      "sha256": "054cbffa57c78a6d9bfa91ba152b79b9dffbdb0aaaad6deb9e19db8bd46b11f5"
+    },
+    {
+      "path": "dist/data/geodata/Grundvatten_2010.json.gz",
+      "size": 4633735,
+      "sha256": "1355ed9d7d42133b7be59323c7d6ac6e380d3c13cc336b7816f51ed9be8d931f"
+    },
+    {
+      "path": "dist/data/geodata/Arbetsplatsomraden_2010.json.gz",
+      "size": 104965,
+      "sha256": "95cd774bd83186c9abffc89762eefd9800d9d501b3ca6d02850247cd61b07d36"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part0.json.gz",
+      "size": 680672,
+      "sha256": "8885beaf127763a594b4db9951358c89807941bc985a67424ef6e7027d859244"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part6.json.gz",
+      "size": 1088726,
+      "sha256": "c3218ee26174c3e0e33d6dff767760e77c339c73b13d670e8ee67a05e33ebdb7"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part2.json.gz",
+      "size": 1049011,
+      "sha256": "4c7235812a2a8178a0f6cb242cf190724f950ac844a59f0a33d8fba28eb8f888"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort-part6.json.gz",
+      "size": 815908,
+      "sha256": "0dfbd9d03b714e2850f1627f80ddc5df11f3a8905cabafd0c12ba3ecb4457dc6"
+    },
+    {
+      "path": "dist/data/geodata/Verksamhetsomraden_2015.json.gz",
+      "size": 511392,
+      "sha256": "0571605c581c39582bd7db0c72fe78f9a49e1243650d1c3c3f014fdd10f43f49"
+    },
+    {
+      "path": "dist/data/geodata/Grundvatten_2022.json.gz",
+      "size": 5101006,
+      "sha256": "f5f9f5b2e967c6757a1944958a94adc9385c37d139d2362478b77ed497173daf"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_2000.json.gz",
+      "size": 503442,
+      "sha256": "9634f8a230f488bd3a76195a57e380d2de296f1aa43ae27de8f78b05bdb75ef3"
+    },
+    {
+      "path": "dist/data/geodata/Turism_2026.json.gz",
+      "size": 638888,
+      "sha256": "bc3ab93076b48cf4fec6b66f5968d4f5fd0419e019303cc84c82ab2618390129"
+    },
+    {
+      "path": "dist/data/geodata/Grundvatten_2017.json.gz",
+      "size": 5073081,
+      "sha256": "7f9cf45762ad9b238edac29879a01e38a3f4c5722ab4c27495fda3f9774217ec"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2015_tatort-part5.json.gz",
+      "size": 1231108,
+      "sha256": "6d0681c7b6f75b9f53d435f0d7a3507a76b9c08b3cafa07a01205e87de3d2b36"
+    },
+    {
+      "path": "dist/data/geodata/befolkning_1km_2023.json.gz",
+      "size": 629998,
+      "sha256": "62cdde1cc1cbd2e55be09d792bcc5fa06c396c73529309c8530c4b490fa6ec49"
+    },
+    {
+      "path": "dist/data/geodata/Smaorter_1995.json.gz",
+      "size": 487909,
+      "sha256": "1f41e1d471d5ec7d395de9ce29d230a18cd1a9b11986acfdf789197942930197"
+    },
+    {
+      "path": "dist/data/geodata/Gronomraden_2020_tatort.json",
+      "size": 468,
+      "sha256": "6ebf5991da62a8310550f3d2b51735c3b6325e507504344e02ca97178cd63b92"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-juridisk-form-gruppering.json.gz",
+      "size": 275968,
+      "sha256": "33e74d66c7bff0cc1587ba6476f8bd9b0b8a7f999e0f95580c14b9bd63578b2c"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_67979.json.gz",
+      "size": 17530,
+      "sha256": "cd8db56a3f8b7e1e566a2c8de02dfefae0da4bf8974375e4db5838ba7cb8fe89"
+    },
+    {
+      "path": "dist/data/deepdives/funkBaFod.px.json",
+      "size": 3620,
+      "sha256": "272a97223e71eab9aeb6cd7c99b3f96813b20f826816ba08862b2e19ab6b6f0a"
+    },
+    {
+      "path": "dist/data/deepdives/mobBaAld.px.json",
+      "size": 3021,
+      "sha256": "a3d6ac1885c8793cbb3dd2e82b18e3908f5b1556c701fe326cf92ac06fe7b7b3"
+    },
+    {
+      "path": "dist/data/deepdives/catalog.json",
+      "size": 101915,
+      "sha256": "8ee09aa91f62a4c2ba65edb090a9945d756440e0fdff0ad806af350deb39efa4"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-juridisk-form-gruppering.json.gz",
+      "size": 119525,
+      "sha256": "ebaeca68320090a48d87a68af715153c88b07518dbb8a3514a098fe7f1fe225b"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SABeviljadeArDiagnosOmf.json.gz",
+      "size": 51093,
+      "sha256": "c7e253d18adbe80ec1c41b513ce04f5453c612dd60d18b4f88890d834ea96765"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SABeviljadeArDiagnosAlder.json.gz",
+      "size": 164497,
+      "sha256": "f42516d498f3120d38dec76329d69f00b9876c82ae1ecc8f0a47fdab9df443be"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SJPT2.json.gz",
+      "size": 3049373,
+      "sha256": "0e8d9625e676afe24e1ab12ef8f4abe5ad5d56188d2fb0aaa131045523f346c9"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N07029.json.gz",
+      "size": 32811,
+      "sha256": "058cc97fd1dcbd0efb936e6c73da93cc108438c49609124589c294c0177a3a02"
+    },
+    {
+      "path": "dist/data/deepdives/MHEv1TraGFun.px.json",
+      "size": 31916,
+      "sha256": "ea113112023f0a7205759dcaf01acded118576f84b8b9e408a43683952abe162"
+    },
+    {
+      "path": "dist/data/deepdives/FK-tvshogkostnadsskydd.json.gz",
+      "size": 90171,
+      "sha256": "9fadc52ad2284eb37ac6bfa426f9572d4f11333a05075b0dee80713a2b01cf83"
+    },
+    {
+      "path": "dist/data/deepdives/skosBaEko.px.json",
+      "size": 3223,
+      "sha256": "b823d0a9599fa610b81ec61c54f015702d333f49054291ba478293d66177f985"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_74454.json.gz",
+      "size": 15929,
+      "sha256": "cb899236848945a56fc695743a56d0162c93fea94833b89af23e4f70b1b9010d"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_68635.json.gz",
+      "size": 17374,
+      "sha256": "100566ac9286c4a807ff91e3d862b78052924404574149079f654646c79b6956"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-geografi.json.gz",
+      "size": 7213311,
+      "sha256": "fa1bbe1c711d650e9a58d090cee75ef285dd6713d9a5c53d232bae1b6fbd457c"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-inkomstniva.json.gz",
+      "size": 290847,
+      "sha256": "863b9d98957a3d1f47fe16f8cd5b288ca6aeef8a39b6bc45c87551be0225de3c"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SAManBestAnskanlAkters.json.gz",
+      "size": 2123917,
+      "sha256": "b541032fd33cc64f404ea9c03c470bce1227711b4e20c157cea624ca49849f04"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-omsattning.json.gz",
+      "size": 69349,
+      "sha256": "8f51fe206a92289ee70ec67400aebdb21fede5d1af90deec251b55cc696e2c9a"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-omsattning.json.gz",
+      "size": 382488,
+      "sha256": "55187925453b4442df76a3a32215300d2483ce0b12607a637bbddf43075491ce"
+    },
+    {
+      "path": "dist/data/deepdives/MHEv1TraCFod.px.json",
+      "size": 39001,
+      "sha256": "738c3c41fcc943ef1b9c4cd1f6e1a97187e86e8cc2c2f0eedea03ff5f8d06f8a"
+    },
+    {
+      "path": "dist/data/deepdives/InskForskUtb.px.json",
+      "size": 2198,
+      "sha256": "1130077407370a793350ea43cd4b7410491bf3eafac13f27d4efa1b50fe9d5e0"
+    },
+    {
+      "path": "dist/data/deepdives/socrBaReg.px.json",
+      "size": 4313,
+      "sha256": "a4c6f90b0e8cf2dac4f5a7f1eef321d6abaa8368c0f62ec53cacbc42acb449f5"
+    },
+    {
+      "path": "dist/data/deepdives/MHEv1TraFUtb.px.json",
+      "size": 39401,
+      "sha256": "adbccb69ea0e40829d6c334d22e49d05b406783ea8dac27d9c5afa7553a998ee"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-typ-av-person.json.gz",
+      "size": 55588,
+      "sha256": "20d09b11e6cdbe56ac956e216c3beab9913867c2ce67b1f3e1568c298bb821fd"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-antal-anstallda.json.gz",
+      "size": 70179,
+      "sha256": "5435a826014a6eca842b2b4bf59056b8d3c6de50704af25a9dcf0c4960fdd84f"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-geografi.json.gz",
+      "size": 4725926,
+      "sha256": "2ce17e642319596e1eb4c65f85d3574de06e66d6b3be567589bf2f874708aff5"
+    },
+    {
+      "path": "dist/data/deepdives/skosBaFod.px.json",
+      "size": 3659,
+      "sha256": "e8bc8f4d887a6739d23d34c60a77c8921ec2f7081c5623d9640e392217fa0098"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-aldersgrupp.json.gz",
+      "size": 218745,
+      "sha256": "80a9a95436fd7734c7aabd8f92fc78ff68a10120cae662d84d698c5dd8ffc6ef"
+    },
+    {
+      "path": "dist/data/deepdives/TAB1488.json",
+      "size": 198196,
+      "sha256": "47284cdd7d3778766f645c9b6530c41af05bbc3bebba67c61ee36fa991eb532e"
+    },
+    {
+      "path": "dist/data/deepdives/FK-tfpVabAntalDagarBeloppLanKommun.json.gz",
+      "size": 173590,
+      "sha256": "309f6f7f96a625c7e74828ad8c83c2ae8c42e39b5318c70ab2f07bfe760dba73"
+    },
+    {
+      "path": "dist/data/deepdives/funkBaAld.px.json",
+      "size": 2738,
+      "sha256": "aa9e6615c43b190802a4225aaa8f1c42efbc07060ba82ae3b62ae8ac1a5bf5a3"
+    },
+    {
+      "path": "dist/data/deepdives/TAB6851.json",
+      "size": 8430,
+      "sha256": "5b7153d45d7cfa5ff2b02af05313fa40b7a402a844abc42f51d78c387b51dd94"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-aldersgrupp.json.gz",
+      "size": 299559,
+      "sha256": "68739bef709e90cd0a7c442afa46c04686745cc6025cd35faeb927567133e8f3"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N07925.json.gz",
+      "size": 15720,
+      "sha256": "af96f1d30ee179038015654acb5bd3d36930d3e3c71fb027e99a900094d8c839"
+    },
+    {
+      "path": "dist/data/deepdives/IAF-iaf-recipients.json.gz",
+      "size": 19669,
+      "sha256": "57db09327e6ef1a477871c58442455c9819c2260a9be77215fcdf828bfab19b6"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-U23466.json.gz",
+      "size": 17855,
+      "sha256": "52d47fc900430d409e2258d1e8f8dec91a17c3533252fa8ae21108126750089f"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N00359.json.gz",
+      "size": 3765,
+      "sha256": "3d6cd3c453cdbae719fda1641751978a7f54185294b87b99fdd573adf730ddf8"
+    },
+    {
+      "path": "dist/data/deepdives/TAB4066.json",
+      "size": 80671,
+      "sha256": "dbda58a69a3c50c8db8d230e4f071221c242b9c782372a9ce2056fc4e063545c"
+    },
+    {
+      "path": "dist/data/deepdives/FK-FPAntalDagarBeloppLanKommun.json.gz",
+      "size": 308880,
+      "sha256": "7258c2922ad4939f1559b7d2b8c99891d0889976daabc675560d57b341dfb1de"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_68841.json.gz",
+      "size": 3327,
+      "sha256": "32f0a5ce709fcc327fc9be96ed2b726bb597d5378f05fed97cbb8fcea7c0bf45"
+    },
+    {
+      "path": "dist/data/deepdives/InskForskInk.px.json",
+      "size": 2832,
+      "sha256": "bfbca9f279f50c7e4432f0321576d8877f1d03be824f379c384f9b51e4f81352"
+    },
+    {
+      "path": "dist/data/deepdives/skosBaReg.px.json",
+      "size": 4125,
+      "sha256": "36927eb5ae1988198b937af9df004c0319cdd52d331c3d8622651e5ce5f72f75"
+    },
+    {
+      "path": "dist/data/deepdives/mobBaFod.px.json",
+      "size": 3549,
+      "sha256": "bc4dddbb84bd9d621dedd317593e5903d4b2a1ee4557fe98a0627293d432ef9d"
+    },
+    {
+      "path": "dist/data/deepdives/FK-tfpVabAntalDagarBeloppAlder.json.gz",
+      "size": 9404,
+      "sha256": "aef7b175071f43a024fea986d79173552e642800123d41cdbde3760a6dc2de86"
+    },
+    {
+      "path": "dist/data/deepdives/TAB6859.json",
+      "size": 6923,
+      "sha256": "e21ed6129fe9bdbf6d77bbab0dbf26e3f9ee0bfa0a6d458040456365f5e2de08"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-inkomstniva.json.gz",
+      "size": 355306,
+      "sha256": "eee9e88fd9db9470119e1e09434481bbdc15e382cc34928cbd4685189dfcb15d"
+    },
+    {
+      "path": "dist/data/deepdives/socrBaEko.px.json",
+      "size": 2840,
+      "sha256": "632967305ba17e146a00efbedf3c5b1a23bc0e0add6e821b91221569f0fc7e1b"
+    },
+    {
+      "path": "dist/data/deepdives/TAB6798.json",
+      "size": 20267,
+      "sha256": "3f920409fc034889b4185b67c5adf40945d103915a26667363784642b615a794"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SJPPagSjukfallLangd.json.gz",
+      "size": 438038,
+      "sha256": "10c6c44b24f1a6e21958d80a8510ca5532c836e67919797448a00dbee033ad4b"
+    },
+    {
+      "path": "dist/data/deepdives/FK-fp4060lan.json.gz",
+      "size": 4020,
+      "sha256": "018610592410114a5a917ad3baa9842d873bfe7ae455db6122a47467a0f29bec"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-lonesumma.json.gz",
+      "size": 71356,
+      "sha256": "c7fae140524b70572818599954d2a64c799b9ca3b8ec7a73a5ab71bfc65e55c4"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N00337.json.gz",
+      "size": 3857,
+      "sha256": "4e2c84507b7b35f91a94a0c015d1201a178921c7922684f8ae63c2d33af7201e"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_68717.json.gz",
+      "size": 15881,
+      "sha256": "7999ed2ebd73bbb83dae333c42daa95823fc3d4f4f73802da2870f2ebec49852"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_74456.json.gz",
+      "size": 15704,
+      "sha256": "47dadc84c9b044783d81f04ee019b250ea96d9e10f3943b4a71dd4b5117fdbed"
+    },
+    {
+      "path": "dist/data/deepdives/FK-ARBSKLafEfter1937.json.gz",
+      "size": 45253,
+      "sha256": "d1af0ef7971359fd9ba281b4a18467a0eec9bf4bf14bfea7dcd8879f9ffb95b5"
+    },
+    {
+      "path": "dist/data/deepdives/socrBaAld.px.json",
+      "size": 2782,
+      "sha256": "28ed02abd54ea9e366ba23d88cb97da912b816f6d6405637340a026883938f3a"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-lonesumma.json.gz",
+      "size": 204255,
+      "sha256": "17b31ffa0cdc81452640d7fa043c5fcd0ce6c862047250b68c8c2628a85c9f3b"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-statlig-inkomstskatt.json.gz",
+      "size": 53951,
+      "sha256": "dc7578f2e3038eaaec3154a8ff84fc621a9a07ae02c69ab69b56e193beaff8c9"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_70774.json.gz",
+      "size": 15723,
+      "sha256": "2c7328343b956703aa70944f2cff5add12d4385619aca09cc554df06c73e12c8"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SJPAntalmottagarediagnos.json.gz",
+      "size": 676237,
+      "sha256": "3cd0055d1edc5f8c7e9e121a8e6d66ab126646deeb6643fec7ef7b1770867a40"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_68842.json.gz",
+      "size": 3278,
+      "sha256": "007434e2b325945ff7a4a9abec3a93522d6b39e658ba8388d800c536f4b59605"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-juridisk-form-sektorer.json.gz",
+      "size": 82777,
+      "sha256": "59c68379b615318e314634b7d2326392312fce12d36305e6dcaffadc9437670a"
+    },
+    {
+      "path": "dist/data/deepdives/IAF-iaf-processing.json.gz",
+      "size": 694,
+      "sha256": "92077149c88eeb2de3a00175b12c34419b9d41ac26047a19a358fb7e67ec7b41"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SJPPagSjukfallAlder.json.gz",
+      "size": 421832,
+      "sha256": "9227da1e01530d761b851807cd1ea7268e8887b6b65a2412fd08a896ebe7ef7a"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N00315.json.gz",
+      "size": 5530,
+      "sha256": "993f21864ca2539f83d584b0987105d3bf1c674333f20ef3d26e0634f13b8442"
+    },
+    {
+      "path": "dist/data/deepdives/MHEv1TraAAld.px.json",
+      "size": 48439,
+      "sha256": "d052977a8b34eb8747f683e43818a4958f5a93037fbf7544935bb17d98107e37"
+    },
+    {
+      "path": "dist/data/deepdives/TAB4200.json",
+      "size": 264327,
+      "sha256": "3215902888ebf98852b3740062231be105a86e278c35a836e22dbe534b507fe9"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N00304.json.gz",
+      "size": 5639,
+      "sha256": "26a3d3da6a8ccb19a8c1bdfc7899c8e1dd03779979409fa827d7b3a6746e9ffb"
+    },
+    {
+      "path": "dist/data/deepdives/TAB4169.json",
+      "size": 237386,
+      "sha256": "425fa4c2b9ed3615ae33e2896fab4b926981d017ea29944ed5c6b566c535ba83"
+    },
+    {
+      "path": "dist/data/deepdives/FK-FPAntalDagarBeloppAlder.json.gz",
+      "size": 14548,
+      "sha256": "a41c1e62dcbb75070af76519b467841e9aaaee949310fa800ad4f38a29bef1df"
+    },
+    {
+      "path": "dist/data/deepdives/funkBaReg.px.json",
+      "size": 4338,
+      "sha256": "69c54393e7ad53482eacec6059392fa11a7290c8c15d0d2c70bf72177e79ae7f"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-antal-anstallda.json.gz",
+      "size": 203188,
+      "sha256": "48c45ee4061dba152c5af75f4cb227fa74188ac7e6f2f88a93c10f786a5dceb3"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-U01407.json.gz",
+      "size": 11521,
+      "sha256": "7aaa527e7dbbc2586cfc3ddf022534d39b0b32acb601a18cdd7493cb52260186"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-bransch.json.gz",
+      "size": 349537,
+      "sha256": "083d2080efa3de5a579e581a1c9f9031f4bd2a589ddaee1db902a12e4717c298"
+    },
+    {
+      "path": "dist/data/deepdives/InskForskFod.px.json",
+      "size": 2172,
+      "sha256": "c4fb78525f71cfab9a69262bb5b0562f3aee63360175b740e612fc3608a2294e"
+    },
+    {
+      "path": "dist/data/deepdives/mobBaEko.px.json",
+      "size": 3080,
+      "sha256": "319de6982b939729314a2d57e37224663b27d90eba7715baa716f0a9efc4c36c"
+    },
+    {
+      "path": "dist/data/deepdives/TAB1487.json",
+      "size": 290414,
+      "sha256": "31a11a321924ea09dac164fdcd38d01440041a1e8681d456a5547885a76397c0"
+    },
+    {
+      "path": "dist/data/deepdives/MHEv1TraSocek.px.json",
+      "size": 52070,
+      "sha256": "3a2ec40e3b3fc8f455ad40b78346c0e325dd998ea249727f684b6c6a4288254b"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-bransch.json.gz",
+      "size": 2291380,
+      "sha256": "d46bfc48285c196de15e2fb29dc14d12dcc6e2efa4d595af80ae953464dbe874"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_70772.json.gz",
+      "size": 2803,
+      "sha256": "f5b924817ce1f6d88345f024ec6368d2e0c64341eb5819a31de7ed4b0cf4b1c7"
+    },
+    {
+      "path": "dist/data/deepdives/skosBaAld.px.json",
+      "size": 3155,
+      "sha256": "aa49d73519144aeebd6d6b67666fbda1049156dced4ffba48c72c42a506ff624"
+    },
+    {
+      "path": "dist/data/deepdives/InskForskSocek.px.json",
+      "size": 2997,
+      "sha256": "fd0bd028f90d7342b187bded79c98a001575f6c16002dfd5b9ff0658ad4b287f"
+    },
+    {
+      "path": "dist/data/deepdives/FK-FPAntalDagarBeloppDagtyp.json.gz",
+      "size": 7182,
+      "sha256": "76f877f56246cd5a022e42b3eef9f20e22e280d176153095fd2165d5412394be"
+    },
+    {
+      "path": "dist/data/deepdives/mobBaReg.px.json",
+      "size": 4008,
+      "sha256": "44538d23c04a85dc9c5be8318d4f685c51c3c95c3ae1cf2a6f3db627f7ee1185"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-juridisk-form-sektorer.json.gz",
+      "size": 54753,
+      "sha256": "8d424090c00b0ee38360fd99b266aab6286c17ebe8bcc1997cc1feb94260e578"
+    },
+    {
+      "path": "dist/data/deepdives/SUSHSVL30.px.json",
+      "size": 520817,
+      "sha256": "df34903146a65fa0d3c63e442e58721d32b25a271acf243a728d7b430c753dc5"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SJPPagSjukfallOmfattning.json.gz",
+      "size": 259861,
+      "sha256": "ff51c16f494a30cb760885274a953d8cb35f93f8ed4655aebedcba9d510899f7"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_68715.json.gz",
+      "size": 15260,
+      "sha256": "c2f5b18f80405920767d64a8e6a7170ada5bb230728a9cce40eda59abecf8ef5"
+    },
+    {
+      "path": "dist/data/deepdives/socrBaFod.px.json",
+      "size": 2966,
+      "sha256": "6fa95618a4d181b3ee219a1df16e178f3769f1a6434d514424628185a6dc0a47"
+    },
+    {
+      "path": "dist/data/deepdives/FK-ARBSKLafFore1938.json.gz",
+      "size": 34290,
+      "sha256": "34991c4acf897e1e2b660856305916a3570dcfc98899f1a646ffc460103065d9"
+    },
+    {
+      "path": "dist/data/deepdives/InskForskReg.px.json",
+      "size": 66162,
+      "sha256": "995e087aa247931f958f3f7c372cda4382fd5193609f479b70b06ad61cdfc3d1"
+    },
+    {
+      "path": "dist/data/deepdives/FK-ARBSKYflDecember.json.gz",
+      "size": 86116,
+      "sha256": "e57d893b1883940afda7da0736e9a41977452c98dce93c98e5d19a9680027f42"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-typ-av-person.json.gz",
+      "size": 42148,
+      "sha256": "1d56ca5784b9b9e5d540b412b72714a72fb519afc2ec0767b7d3dd1db664f6da"
+    },
+    {
+      "path": "dist/data/deepdives/TAB6861.json",
+      "size": 6792,
+      "sha256": "2504bdf5b0feb1658aacfd980ebbc8e24889f42f37881286ebe3e0865b5167dd"
+    },
+    {
+      "path": "dist/data/deepdives/FK-FPAntalDagarOmfattning.json.gz",
+      "size": 7835,
+      "sha256": "ce339e0b71c2551dec45e102be46e1029c579de46508fd2f48f1ab37f1d49db0"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-statlig-inkomstskatt.json.gz",
+      "size": 72264,
+      "sha256": "2568b23b545f6ebc1f62ccc9455bfbcc1ae5792a2554a24002292f65dbfec760"
+    },
+    {
+      "path": "dist/data/deepdives/funkBaEko.px.json",
+      "size": 2885,
+      "sha256": "e485e84abd5636664e78c447aae7436214c8ea124ff3fa18d0f01131098dc2da"
+    },
+    {
+      "path": "dist/data/deepdives/FK-FPDubbeldagarArLan.json.gz",
+      "size": 4115,
+      "sha256": "a9cd1c21a2fd23d2ba8917b79c16822b7bf20f086bc520e76c1820034cefc114"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rot-kon.json.gz",
+      "size": 51583,
+      "sha256": "ac22dc5ff385f72a93a616034b56fd68f2314310c0bf31d5f68f361ab8406f67"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SJPPagSjukfallKommun.json.gz",
+      "size": 565561,
+      "sha256": "628b06c98c23abf73274e3ef2f0e52b5ba6887342acf8a2b4a74913686d83784"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-tax-kon.json.gz",
+      "size": 75819,
+      "sha256": "4f93a686d1b651bfc7331c4a5fb4c3233a8834c68fb6e7313bbc099c84c450fb"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N00326.json.gz",
+      "size": 5527,
+      "sha256": "4607f5cbf84182304d7c6e193d477636371343995ada5809caf0627157f25d4e"
+    },
+    {
+      "path": "dist/data/deepdives/SKV-rent-6_70773.json.gz",
+      "size": 16698,
+      "sha256": "bcf4fe575b7ab9eeb24bbf5000f0d737bdeea14c80b8a5d54551da3f131026bd"
+    },
+    {
+      "path": "dist/data/deepdives/MHEv1TraXReg.px.json",
+      "size": 244614,
+      "sha256": "cdc8796e0d51ccd3a552f4d8eeb1433355a20d6c2bb2ed36a32915327ede92ad"
+    },
+    {
+      "path": "dist/data/deepdives/KOLADA-N00348.json.gz",
+      "size": 3763,
+      "sha256": "711be6b6376c4ceab9a0ecded59638eca9647412763a0da8968031f37a9ec720"
+    },
+    {
+      "path": "dist/data/deepdives/IAF-iaf-wait.json.gz",
+      "size": 657,
+      "sha256": "72c7ad78ba7ff85bf2dae51d5c99ea670a82a351acbb03a40a79e3a3680426a4"
+    },
+    {
+      "path": "dist/data/deepdives/FK-SABeviljadeArDiagnosLan.json.gz",
+      "size": 175510,
+      "sha256": "d64f875fceed45268df3b20fcee8908d8c7e883bd89da80498d89fc9b50ffbd1"
+    },
+    {
+      "path": "dist/data/deepdives/InskForskRegso.px.json",
+      "size": 1241099,
+      "sha256": "0e78637b40e0d72b26e55e6f628b7ac30dc5ba1ff30ef4099e65116476766f5d"
+    },
+    {
+      "path": "dist/data/deepdives/FK-tfpVabAntalDagarBeloppOmf.json.gz",
+      "size": 5774,
+      "sha256": "fef34f7a9a7b8f99c3efd6c2dac5d49b137d634067d617c7b723141ebbe6c323"
+    }
+  ]
+}
