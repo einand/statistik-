@@ -107,3 +107,41 @@ Visa **kostnad, resultat och invånarnas upplevelse sida vid sida**, där jämf�
 - Socialstyrelsen, äldreomsorg: https://www.socialstyrelsen.se/statistik-och-data/oppna-jamforelser/socialtjanst/aldreomsorg/
 - Socialstyrelsen, kommunal hälso- och sjukvård: https://www.socialstyrelsen.se/statistik-och-data/oppna-jamforelser/kommunal-halso-och-sjukvard/
 - Socialstyrelsen, vårdens väntetider: https://www.socialstyrelsen.se/statistik-och-data/statistik/alla-statistikamnen/lagesbild-och-statistik-tillganglighet-vantetider-och-vardgaranti-i-halso-och-sjukvard/
+
+
+## Kommunernas egen inrapportering och invånarnas upplevelser
+
+**Sparad:** 26 oktober 2026  
+**Status:** Idéer att utreda, inte beslut om implementation.
+
+### Prioriterade källor
+
+| Källa | Vad vi kan undersöka | Viktigt vid jämförelser |
+|---|---|---|
+| Kommunens Kvalitet i Korthet, KKiK / RKA / Kolada | Kommunernas egna insamlade verksamhetsmått, bland annat bygglov, väntetider till särskilt boende och individ- och familjeomsorg | Följ respektive formulärs urval, definition och mätperiod. Alla kommuner och år behöver inte ha värden. |
+| Boverkets bostadsmarknadsenkät | Kommunens bedömning av bostadsbrist, balans eller överskott; situationen för unga, studenter, äldre, nyanlända och personer med funktionsnedsättning; bostadsbyggande och service till bostadssökande | Kommunens bedömning ska skiljas från uppmätta bostadsantal och faktiska kötider. Frågor kan ha ändrats mellan år. |
+| SCB:s medborgarundersökning | Invånarnas upplevelser av skola, omsorg, boendemiljö, trygghet, inflytande och förtroende | Detta är invånarsvar, inte kommunens egen kvalitetsbedömning. Bara deltagande kommuner kan jämföras; redovisa svarsbortfall och osäkerhet. |
+| SKR:s servicemätning Insikt | Erfarenheter av kommunens myndighetsservice efter avslutade ärenden, främst bland företag; även upphandling där uppgifter finns | Deltagandet varierar. Resultaten gäller dem som haft ärenden och ska inte beskrivas som alla invånares åsikter eller en fullständig företagsklimatbedömning. Kontrollera åtkomst och återanvändningsvillkor. |
+| IVO:s statistik och kommunernas uppföljning | Beslut om stöd och omsorg som ännu inte har genomförts, uppdelat efter verksamhet där aggregerad statistik finns | Kontrollera att kommunnivå går att hämta innan införande. Skilj beslut, ärenden, personer, periodens nya ärenden och återrapportering. Summera inte överlappande kategorier. Ingen individinformation ska ingå. |
+| SKR:s sjukfrånvaroredovisning | Sjukfrånvaro bland kommunens anställda och utveckling över tid | Arbetsgivarens personalmått, inte sjukfrånvaro bland kommunens alla invånare och inte Försäkringskassans sjukpenningtal. |
+
+### Möjlig presentation
+
+- **Så beskriver kommunen sin service:** egenrapporterade verksamhetsmått och bedömningar.
+- **Så upplever invånarna och företagen den:** enkätresultat med rätt målgrupp.
+- **Så ser de uppmätta resultaten ut:** registerdata och verksamhetsutfall.
+- Visa dessa sida vid sida och håll skillnaden tydlig i lätt svenska.
+- Exempel: väntan till äldreboende tillsammans med äldres upplevelser och omsorgens kostnader; bostadsmarknadsbedömning tillsammans med färdigbyggda bostäder och befolkningsutveckling.
+- Undersök årsredovisningar, kvalitetsrapporter och kommunala öppna dataportaler för kompletteringar. Lokala mått får jämföras först när definitioner och perioder matchar.
+- Spara historik och faktiska mätperioder. Kontrollera vad som redan finns i projektet före nya importer.
+- Vid implementation ska nya uppgifter omfattas av fokusvyns text, datafält och övriga befintliga regler. Nya mått ändrar inte boendepoängen utan metodbeslut.
+
+### Källor att återvända till
+
+- KKiK, nyckeltal: https://rka.nu/radetforframjandeavkommunalaanalyser/koladastod/nyckeltalforkkik.44786.html
+- KKiK, insamlingsformulär: https://rka.nu/radetforframjandeavkommunalaanalyser/koladastod/publicerastatistikikolada/formularinrapporteringforkkik.44880.html
+- Boverkets öppna bostadsmarknadsenkät: https://www.boverket.se/sv/om-boverket/oppna-data/bostadsmarknadsenkaten/
+- SCB:s medborgarundersökning: https://www.scb.se/vara-tjanster/bestall-data-och-statistik/regionala-statistikprodukter/medborgarundersokningen/
+- SKR, Insikt: https://skr.se/samhalleochnaringsliv/naringslivochforetagsklimat/servicematningeninsikt.7680.html
+- IVO, statistik: https://www.ivo.se/statistik/ej-verkstallda-beslut/
+- SKR, sjukfrånvaroredovisning: https://skr.se/arbetsgivarrollen/analysstatistikochuppfoljning/sjukfranvaroredovisningen.8105.html
